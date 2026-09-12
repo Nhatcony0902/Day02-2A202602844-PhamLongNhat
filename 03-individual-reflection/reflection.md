@@ -6,7 +6,7 @@
 
 - Họ và tên: Phạm Long Nhật
 - Mã học viên: 2A202602844
-- Nhóm: Bình — Nhật — Dũng — Khánh — Đình Anh
+- Nhóm: Fintech-Zone C
 - Candidate problem nhóm chọn: Nhà đầu tư cổ phiếu cá nhân dễ bỏ lỡ thời điểm phản ứng với tin tức hoặc sự kiện doanh nghiệp, vì tin nằm rải rác nhiều nguồn và phải tự đánh giá theo từng mã.
 
 ---
